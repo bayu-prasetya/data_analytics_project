@@ -1,6 +1,6 @@
 <h1> [Your Project Title] </h1>
 
-## Project Overview
+## 1. Project Overview
 This project analyzes business data to extract insights, improve decision-making, and identify key trends. The primary focus is to **[Your Problem Statements]**(mention business objectives, such as optimizing sales, reducing operational costs, customer segmentation, etc.).
 
 Key Objectives:
@@ -8,7 +8,7 @@ Key Objectives:
 - Objective 2: (E.g., Forecast future sales using machine learning)
 - Objective 3: (E.g., Identify high-value customer segments)
 
-## Data Sources
+## 2. Data Sources
 - [Dataset 1](link) - Description of dataset (e.g., Sales data for 2020–2023)
 - [Dataset 2](link) – Description of dataset (e.g., Customer demographic information)
 - ...
@@ -21,7 +21,7 @@ Key Objectives:
 - Others: Jupyter Notebook
 - ...
 
-## Project Structure
+## 4. Project Structure
 
 ```
 ├── README.md          <- The top-level README for developers using this project.
@@ -45,13 +45,13 @@ Key Objectives:
 
 ```
 
-## Summary of Finding
-### Business Insight
+## 5. Summary of Finding
+### 5.1 Business Insight
 In this section, you can present the **actionable insights** derived from the analysis results.
-### Actionable Recommendation
+### 5.2 Actionable Recommendation
 In this section, you can offer **actionable business recommendations** to address the identified problems.
 
-## Contact
+## 6. Contact
 - Name: 
 - Email:
 - Linkedin:
